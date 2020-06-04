@@ -1,0 +1,17 @@
+h1 { height: 50px; width: 250px; border: 9px solid pink; color: yellow; background: blue; font-size: 42px; padding: 20px; margin: 49px;
+  
+}
+
+p { margin: 9px; padding: 30px; height: 30px; width: 300px; border: 8px solid brown; color: black; background: white; font-size: 14px
+  
+}
+
+.PictureofBread {
+  background: orange
+    
+}
+
+.BreadStore {
+    float: left;
+    margin: 20px}
+#Header {background: white}
