@@ -7,27 +7,32 @@ h1 {
   float: none;
   font-size: 42px;
   padding: 20px;
-  margin: 49px;
+  margin: 200px;
 
 }
 
 p {
-  margin: 9px;
+  margin: 30%;
   padding: 30px;
+  float: center;
   height: 30px;
   width: 300px;
-  border: 8px solid brown;
+  border: 8px dotted  cornflowerblue;
   color: black;
   background: white;
   font-size: 14px
 }
 
 .PictureofBread {
-  background: orange
+  background: white;
+  height: auto;
+  padding: 50px;
+  border: 9px darkviolet;
+  
 }
 
 .BreadStore {
-  float: left;
+  float: right;
   margin: 20px
 }
 
